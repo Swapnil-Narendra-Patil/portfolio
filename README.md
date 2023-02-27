@@ -2,8 +2,7 @@
 
 **[Live demo](https://portfolio-6kkb-k9igw66e1-swapnil-narendra-patil.vercel.app/)**
 
-This repo contains code of a recreation of **[Bokoko33's award-winning website](https://bokoko33.me/)**. The original creator asks to please not use this _exact_ idea,
-but feel free to use it as a starting point/inspiration.
+
 
 ![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
 
