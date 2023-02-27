@@ -4,7 +4,7 @@
 
 
 
-![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
+![Home page screenshot](./public/social/screenshot1.png)
 
 ## Instructions
 
