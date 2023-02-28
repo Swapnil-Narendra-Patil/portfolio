@@ -309,7 +309,15 @@ svg {
   margin-top: 64px;
   color: var(--color-text);
 }
+.github-link{
+  color: var(--color-text);}
 
+.github-logo{
+  height: 40px;
+  width: 40px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
 .section-text {
   line-height: 2;
   margin-top: 18px;
