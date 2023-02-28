@@ -310,7 +310,9 @@ svg {
   color: var(--color-text);
 }
 .github-link{
-  color: var(--color-text);}
+  color: var(--color-text);
+  text-decoration: none;
+}
 
 .github-logo{
   height: 40px;
