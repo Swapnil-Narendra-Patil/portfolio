@@ -320,6 +320,17 @@ svg {
   padding-left: 10px;
   padding-top: 10px;
 }
+.linkedin-link{
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.linkedin-logo{
+  height: 35px;
+  width: 35px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
 .section-text {
   line-height: 2;
   margin-top: 18px;

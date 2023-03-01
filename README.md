@@ -1,4 +1,4 @@
-# Recreation of Award-winning Bokoko33's Portfolio
+# Swapnil Patil Portfolio
 
 **[Live demo](https://portfolio-6kkb-k9igw66e1-swapnil-narendra-patil.vercel.app/)**
 
