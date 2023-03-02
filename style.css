@@ -331,6 +331,17 @@ svg {
   padding-left: 10px;
   padding-top: 10px;
 }
+
+.email-link{
+  /* color: var(--color-text); */
+  text-decoration: none;
+}
+
+.email1-link{
+  color: var(--color-text);
+  text-decoration: none;
+}
+
 .section-text {
   line-height: 2;
   margin-top: 18px;
